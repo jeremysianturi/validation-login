@@ -34,6 +34,10 @@
           <option name="url" value="https://github.com/jeremysianturi/TestApplication.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jeremysianturi/TestApp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Desktop/jer" />
